@@ -1,4 +1,4 @@
-# NATS Stream Viewer
+# NATS Search
 
 A simple stream searching tool for NATS JetStream.
 
