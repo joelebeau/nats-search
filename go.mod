@@ -1,4 +1,4 @@
-module github.com/joelebeau/nats-stream-viewer
+module github.com/joelebeau/nats-search
 
 go 1.24.2
 
