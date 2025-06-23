@@ -7,7 +7,8 @@ I find myself searching for messages in NATS JetStream somewhat often, and I've 
 So here we are, building a custom stream viewer. The idea is just to be able to print out the elements of a stream, optionally with a filter. I would like to add some of the same options as `nats stream view` as well as this matures.
 
 ## Installation
-TBD
+I may work on pre-built releases in the future, but for now the best way to install is to use `go install`:
 
-## Building
-TBD
+```bash
+go install github.com/joelebeau/nats-search@latest
+```
